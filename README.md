@@ -49,6 +49,8 @@ Prerequests:
 
 3. Configuration
 
+Clone this repo both in your host and client.
+
 - On the host:
 
   ```shell
