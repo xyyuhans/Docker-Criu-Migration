@@ -57,7 +57,7 @@ Prerequests:
 
   Attention:
 
-  1. It will destroy your origin configurations about `/etc/exports` in your host.
+  - It will destroy your origin configurations about `/etc/exports` in your host.
 
 - On the client:
 
@@ -67,8 +67,7 @@ Prerequests:
   
   Notes:
   
-  1. Use `df -h` in your client to see whether your host has mounted your client. 
-  
+  - Use `df -h` in your client to see whether your host has mounted your client. 
 4. Test your live migration
 
 - On the host
